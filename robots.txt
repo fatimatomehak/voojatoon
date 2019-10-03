@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://epuofooho.vacay.in/sitemap.xml
